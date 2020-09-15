@@ -4,7 +4,6 @@
  * 
  * Main class for OrderManager, OneTimeOrders, and RepeatedOrders.
  * Has methods that @throws OfficeSupplyUIException.
- * Those exceptions
  * 
  * Allows the user the following options (in while loop):
  * 1. specify a file name of orders to load
