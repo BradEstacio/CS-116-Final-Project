@@ -1,0 +1,1000 @@
+R,Omnicom Group Inc.,J3,7/14/2019,20,29,7/18/2019
+O,First American Corporation (The),J2,8/20/2019,16
+O,Under Armour Inc.,S1,1/19/2019,63
+O,Fly Leasing Limited,Y5,10/25/2019,55
+R,MarineMax Inc.,P7,7/5/2019,64,28,10/19/2019
+R,Dividend and Income Fund,V3,3/9/2019,44,14,10/23/2019
+O,ONEOK Inc.,S6,3/5/2019,55
+O,Emerge Energy Services LP,L4,8/10/2019,10
+O,Kimco Realty Corporation,M7,10/20/2019,92
+R,U.S. Bancorp,F2,6/20/2019,76,18,10/19/2019
+O,CVS Health Corporation,Q3,3/18/2019,84
+R,Herc Holdings Inc.,X7,11/25/2019,47,26,11/29/2019
+O,Eaton vance Floating-Rate Income Plus Fund,D2,2/13/2019,82
+O,Everest Re Group Ltd.,B5,4/21/2019,20
+O,Nuveen Senior Income Fund,Q9,5/14/2019,7
+O,Toronto Dominion Bank (The),X9,9/26/2019,78
+O,Public Storage,Q3,9/14/2019,70
+R,Cincinnati Bell Inc,O8,11/18/2019,71,27,11/30/2019
+O,PennyMac Mortgage Investment Trust,G4,7/28/2019,73
+R,Bausch Health Companies Inc.,X2,3/7/2019,76,20,5/3/2019
+O,Gamestop Corporation,V7,8/8/2019,63
+O,Guggenheim Credit Allocation Fund,P3,7/26/2019,15
+O,BRF S.A.,W5,7/11/2019,84
+R,Wayfair Inc.,C4,11/7/2019,3,2,11/19/2019
+O,BankUnited Inc.,Q8,4/1/2019,12
+R,Cardinal Health Inc.,Z4,10/6/2019,29,16,12/21/2019
+R,Nuveen North Carolina Quality Municipal Income Fd,E6,9/7/2019,94,6,11/6/2019
+O,TPG RE Finance Trust Inc.,Z4,9/5/2019,56
+R,Pzena Investment Management Inc,M9,6/17/2019,41,9,10/4/2019
+R,Banc of California Inc.,J5,8/7/2019,8,9,12/15/2019
+R,Public Storage,E6,10/10/2019,40,15,10/17/2019
+O,Sparton Corporation,W4,2/11/2019,76
+O,Harsco Corporation,I4,5/28/2019,61
+R,KBR Inc.,J2,3/1/2019,17,11,9/27/2019
+O,The Central and Eastern Europe Fund Inc.,L7,7/25/2019,8
+R,Jagged Peak Energy Inc.,P1,8/20/2019,50,18,9/29/2019
+O,Cosan Limited,J3,4/7/2019,44
+R,General Dynamics Corporation,X3,1/10/2019,16,20,5/17/2019
+R,Babcock,V1,10/6/2019,27,4,12/25/2019
+O,Global Ship Lease Inc.,N7,8/21/2019,2
+O,Brixmor Property Group Inc.,K8,8/5/2019,15
+O,Colony Capital Inc.,M3,3/22/2019,64
+O,Dollar General Corporation,X7,5/3/2019,68
+R,Cincinnati Bell Inc,W7,3/19/2019,19,6,12/10/2019
+R,Voya Natural Resources Equity Income Fund,T1,2/19/2019,34,13,12/22/2019
+R,DCP Midstream LP,T7,1/13/2019,81,7,6/12/2019
+O,CVS Health Corporation,W4,2/25/2019,29
+R,Agree Realty Corporation,R4,2/21/2019,93,12,10/7/2019
+R,Teva Pharmaceutical Industries Limited,W2,3/22/2019,77,19,11/14/2019
+O,Qwest Corporation,G8,5/14/2019,38
+O,Glatfelter,Y3,4/19/2019,28
+R,Delek US Holdings Inc.,S3,6/22/2019,24,25,12/29/2019
+R,U.S. Physical Therapy Inc.,R7,8/1/2019,89,22,10/8/2019
+R,CABCO Series 2004-101 Trust,V8,11/27/2019,61,5,12/7/2019
+O,OneMain Holdings Inc.,Y9,5/5/2019,53
+R,EOG Resources Inc.,G9,4/6/2019,65,18,4/21/2019
+O,BlackRock Massachusetts Tax-Exempt Trust,O7,11/26/2019,10
+O,Genworth Financial Inc,U4,9/21/2019,84
+O,Fortuna Silver Mines Inc.,J2,11/16/2019,18
+O,Installed Building Products Inc.,A3,12/30/2019,74
+R,Telaria Inc.,W1,9/17/2019,24,5,11/16/2019
+R,Scorpio Tankers Inc.,A6,11/19/2019,18,30,12/2/2019
+O,Nuveen Preferred & Income Opportunities Fund,G8,3/31/2019,92
+O,Dell Technologies Inc.,V3,9/24/2019,21
+O,Southwestern Energy Company,C6,7/14/2019,23
+O,Apergy Corporation,E6,3/4/2019,99
+O,KB Financial Group Inc,R8,6/6/2019,38
+O,GasLog Partners LP,P5,11/11/2019,25
+O,Ford Motor Company,J3,9/28/2019,51
+O,W.P. Carey Inc.,P6,12/30/2019,88
+O,The AES Corporation,H1,3/19/2019,98
+O,Blackrock MuniYield New York Quality Fund Inc.,P7,8/5/2019,95
+O,Reinsurance Group of America Incorporated,F9,4/7/2019,21
+O,HC2 Holdings Inc.,C6,7/24/2019,33
+O,BlackRock California Municipal Income Trust,S5,7/19/2019,55
+O,PartnerRe Ltd.,I9,12/20/2019,42
+O,Brown & Brown Inc.,A2,7/10/2019,32
+R,New Frontier Corporation,Y2,4/18/2019,60,2,8/12/2019
+O,Kansas City Southern,C4,8/16/2019,70
+R,Kimco Realty Corporation,L8,5/8/2019,85,25,8/24/2019
+O,Nuveen New York Municipal Value Fund Inc.,K5,3/11/2019,85
+R,Barnes & Noble Education Inc,E8,4/8/2019,98,30,7/22/2019
+R,Medley LLC,W3,4/1/2019,92,30,6/19/2019
+R,Unilever PLC,M6,5/20/2019,68,29,6/25/2019
+O,Hersha Hospitality Trust,M7,5/23/2019,16
+O,First Trust Energy Infrastructure Fund,H9,6/22/2019,46
+R,Textron Inc.,N1,10/23/2019,75,17,11/12/2019
+O,TransMontaigne Partners L.P.,O2,4/25/2019,82
+R,Nuveen Municipal Credit Income Fund,H4,5/1/2019,64,7,6/29/2019
+O,Tribune Media Company,H9,1/31/2019,24
+R,First Trust/Aberdeen Emerging Opportunity Fund,M7,4/7/2019,5,2,6/7/2019
+O,Southern California Edison Company,K3,7/13/2019,73
+O,RiverNorth Opportunities Fund Inc.,D5,10/8/2019,23
+R,Invesco Quality Municipal Income Trust,X8,5/3/2019,55,16,9/18/2019
+R,American Renal Associates Holdings Inc,P1,4/29/2019,61,2,11/28/2019
+R,Genie Energy Ltd.,B3,8/2/2019,67,23,9/22/2019
+O,Darling Ingredients Inc.,U2,11/28/2019,73
+R,Axos Financial Inc.,I5,11/20/2019,13,10,12/14/2019
+R,Credicorp Ltd.,Z1,7/17/2019,54,20,8/27/2019
+R,BlackRock California Municipal Income Trust,A6,9/2/2019,43,2,10/21/2019
+O,Brown & Brown Inc.,K9,8/27/2019,65
+O,Farmland Partners Inc.,I1,9/9/2019,10
+O,MFS Government Markets Income Trust,O5,6/17/2019,61
+R,Eclipse Resources Corporation,J5,8/28/2019,70,8,12/11/2019
+R,Community Healthcare Trust Incorporated,N2,6/8/2019,50,3,11/1/2019
+O,Telephone and Data Systems Inc.,I6,2/25/2019,66
+R,Ashford Hospitality Trust Inc,Y4,12/4/2019,57,18,12/12/2019
+R,BlackRock New York Municipal Income Trust II,N5,12/16/2019,4,30,12/27/2019
+O,Jabil Inc.,Y5,3/10/2019,91
+O,GasLog Partners LP,D8,4/21/2019,42
+R,Bank of America Corporation,H3,11/4/2019,13,26,12/16/2019
+O,Ashford Hospitality Trust Inc,F6,3/19/2019,76
+O,Orchid Island Capital Inc.,V1,3/18/2019,68
+O,Vivint Solar Inc.,X2,4/29/2019,51
+R,Northwest Natural Holding Company,Y5,10/13/2019,15,17,12/14/2019
+R,Anworth Mortgage Asset Corporation,O1,4/11/2019,50,14,5/21/2019
+R,Allison Transmission Holdings Inc.,F5,2/13/2019,96,18,3/12/2019
+O,Nomad Foods Limited,N2,6/3/2019,21
+O,American International Group Inc.,P2,2/25/2019,16
+R,Bio-Rad Laboratories Inc.,E9,10/18/2019,76,20,11/29/2019
+R,AVX Corporation,C2,6/16/2019,28,3,7/31/2019
+R,Carriage Services Inc.,O9,9/8/2019,71,5,12/9/2019
+O,Annaly Capital Management Inc,T3,6/2/2019,91
+R,DTE Energy Company,Z9,11/13/2019,21,22,11/26/2019
+O,Dynagas LNG Partners LP,P9,7/18/2019,13
+R,Waste Connections Inc.,Q1,5/3/2019,5,3,11/21/2019
+R,Vistra Energy Corp.,N5,6/13/2019,15,9,7/16/2019
+O,Everest Re Group Ltd.,S3,7/16/2019,20
+R,Capital Trust Inc.,Y2,2/9/2019,86,10,12/30/2019
+R,FGL Holdings,Q1,7/27/2019,31,17,9/9/2019
+R,Customers Bancorp Inc,K7,9/7/2019,74,1,9/26/2019
+O,Entergy Arkansas LLC,X5,7/29/2019,56
+R,Brandywine Realty Trust,B9,1/26/2019,74,6,12/10/2019
+O,Nuveen Select Maturities Municipal Fund,F6,4/25/2019,94
+R,STRATS Trust,P5,6/25/2019,9,21,11/28/2019
+R,FIRST REPUBLIC BANK,B5,12/24/2019,1,29,12/25/2019
+R,Evergy Inc.,B5,9/26/2019,20,23,11/12/2019
+O,Webster Financial Corporation,R4,10/6/2019,41
+O,Nuveen Senior Income Fund,U1,11/14/2019,77
+O,Motorola Solutions Inc.,R3,10/16/2019,23
+R,Grupo Aval Acciones y Valores S.A.,R3,7/31/2019,13,16,10/25/2019
+O,Callon Petroleum Company,H5,6/9/2019,64
+R,Teekay Offshore Partners L.P.,M6,10/5/2019,12,17,11/15/2019
+R,Eaton Vance Enhance Equity Income Fund,L6,7/25/2019,24,23,8/3/2019
+R,HDFC Bank Limited,E3,2/13/2019,78,17,5/1/2019
+O,GS Acquisition Holdings Corp.,S4,8/13/2019,24
+O,Vishay Precision Group Inc.,R7,2/23/2019,51
+O,Sempra Energy,L2,4/25/2019,52
+O,Blackrock Health Sciences Trust,R6,12/10/2019,98
+O,Barnes & Noble Education Inc,A9,1/5/2019,50
+O,Bank of America Corporation,W4,5/17/2019,71
+R,Turkcell Iletisim Hizmetleri AS,T6,6/24/2019,45,21,7/16/2019
+O,Brunswick Corporation,X9,1/1/2019,28
+R,Marriot Vacations Worldwide Corporation,F5,8/31/2019,61,14,9/7/2019
+O,Synthetic Fixed-Income Securities Inc.,H4,8/24/2019,60
+O,Tiffany & Co.,W3,3/26/2019,71
+R,Micro Focus Intl PLC,M3,6/8/2019,38,4,6/12/2019
+R,Apollo Senior Floating Rate Fund Inc.,Q7,1/5/2019,83,1,4/13/2019
+R,Barnes Group Inc.,F9,9/15/2019,9,18,12/27/2019
+R,Box Inc.,J6,3/27/2019,19,3,9/21/2019
+O,Blackrock MuniAssets Fund Inc.,J8,4/17/2019,77
+R,Ecolab Inc.,O7,12/2/2019,69,6,12/19/2019
+R,Nuveen Virginia Quality Municipal Income Fund,L6,9/18/2019,96,22,11/15/2019
+R,Kinross Gold Corporation,M2,6/28/2019,74,8,12/19/2019
+R,HUYA Inc.,G5,9/17/2019,4,10,11/22/2019
+R,Global Ship Lease Inc.,U1,11/15/2019,88,18,12/19/2019
+R,Holly Energy Partners L.P.,X5,4/13/2019,17,22,5/30/2019
+O,Black Knight Inc.,X9,3/12/2019,47
+O,HC2 Holdings Inc.,W7,9/15/2019,26
+O,Molson Coors Brewing Company,U3,9/24/2019,63
+R,Templeton Dragon Fund Inc.,A6,7/17/2019,25,29,12/28/2019
+O,Federal Realty Investment Trust,P1,7/17/2019,26
+O,Nuveen Select Tax Free Income Portfolio III,B9,2/10/2019,29
+R,Bristol-Myers Squibb Company,H9,1/14/2019,54,23,12/30/2019
+R,Maiden Holdings Ltd.,I6,5/22/2019,42,13,9/25/2019
+O,Teva Pharmaceutical Industries Limited,H5,11/1/2019,13
+R,Diana Shipping inc.,X8,6/12/2019,76,16,10/24/2019
+R,Oceaneering International Inc.,N6,5/28/2019,64,26,10/10/2019
+O,Arlington Asset Investment Corp,N5,11/28/2019,25
+O,Nuveen Floating Rate Income Opportuntiy Fund,U7,6/9/2019,69
+R,CAI International Inc.,L3,6/14/2019,70,8,6/24/2019
+R,Comstock Resources Inc.,L4,5/24/2019,54,10,11/25/2019
+R,TransMontaigne Partners L.P.,F2,2/18/2019,55,26,4/17/2019
+O,Southern California Edison Company,S4,8/2/2019,43
+R,RiverNorth Opportunities Fund Inc.,Z1,5/8/2019,42,12,9/13/2019
+R,Annaly Capital Management Inc,T6,4/17/2019,2,2,12/21/2019
+O,Ennis Inc.,B4,9/17/2019,56
+O,Diebold Nixdorf Incorporated,D2,12/26/2019,92
+O,Moody's Corporation,Y7,2/25/2019,90
+O,Geo Group Inc (The),Z9,2/27/2019,70
+R,Royce Micro-Cap Trust Inc.,F8,7/14/2019,27,3,9/17/2019
+O,Holly Energy Partners L.P.,Z4,4/26/2019,15
+O,Churchill Capital Corp,F5,4/4/2019,15
+O,BP Prudhoe Bay Royalty Trust,H4,3/12/2019,65
+O,Seaspan Corporation,V7,1/3/2019,12
+O,Cars.com Inc.,K4,11/24/2019,15
+O,Astrazeneca PLC,R9,2/12/2019,40
+R,Urstadt Biddle Properties Inc.,V1,12/20/2019,70,7,12/22/2019
+O,Babson Global Short Duration High Yield Fund,O6,3/10/2019,26
+R,Teekay LNG Partners L.P.,I8,8/12/2019,10,17,11/11/2019
+O,Cohen & Steers Limited Duration Preferred and Income Fund Inc,B3,3/11/2019,42
+O,Oi S.A.,A8,6/12/2019,59
+O,Tencent Music Entertainment Group,S7,5/19/2019,55
+R,JMP Group LLC,S1,7/24/2019,62,26,10/24/2019
+R,Blackrock MuniYield Fund Inc.,K9,9/18/2019,64,4,10/14/2019
+O,Healthcare Trust of America Inc.,S7,11/23/2019,73
+O,FB Financial Corporation,T4,10/2/2019,39
+O,MRC Global Inc.,M8,6/4/2019,74
+O,Clipper Realty Inc.,O7,8/6/2019,66
+R,Colonial High Income Municipal Trust,W6,6/2/2019,93,16,12/6/2019
+O,Nine Energy Service Inc.,M3,11/9/2019,33
+O,Altria Group,X1,7/27/2019,99
+R,AT&T Inc.,D1,5/15/2019,59,19,5/19/2019
+R,Lsb Industries Inc.,N6,9/27/2019,95,8,12/5/2019
+R,Wells Fargo & Company,I7,10/7/2019,16,17,12/9/2019
+R,Semiconductor Manufacturing International Corporation,X6,7/26/2019,30,11,8/2/2019
+O,Christopher & Banks Corporation,A2,12/21/2019,74
+O,Goldman Sachs MLP Income Opportunities Fund,T9,2/26/2019,77
+O,Eastman Kodak Company,M4,3/15/2019,64
+O,Gold Fields Limited,W8,9/18/2019,33
+O,Royal Caribbean Cruises Ltd.,K1,7/9/2019,23
+R,CBL & Associates Properties Inc.,E6,3/14/2019,74,19,6/29/2019
+R,Blackstone / GSO Strategic Credit Fund,L4,5/9/2019,78,12,6/18/2019
+R,Comerica Incorporated,S4,10/27/2019,3,25,12/3/2019
+R,UBS AG,R1,10/14/2019,44,2,11/23/2019
+R,Gold Fields Limited,M5,8/2/2019,58,18,8/28/2019
+R,CIRCOR International Inc.,A1,7/16/2019,56,2,8/10/2019
+O,Kimco Realty Corporation,C7,5/2/2019,49
+O,Nelnet Inc.,Y7,3/29/2019,87
+O,Superior Energy Services Inc.,T6,1/29/2019,74
+R,Callon Petroleum Company,U8,1/1/2019,57,9,3/4/2019
+O,Southern Company (The),Y5,11/1/2019,61
+O,Trinseo S.A.,Q4,4/17/2019,90
+O,Philip Morris International Inc,J3,7/8/2019,11
+O,South Jersey Industries Inc.,M2,2/8/2019,96
+O,MGIC Investment Corporation,E6,9/27/2019,7
+R,Brinker International Inc.,U2,11/9/2019,72,10,11/30/2019
+R,PIMCO California Municipal Income Fund,A6,8/10/2019,90,28,11/26/2019
+O,Talos Energy Inc.,M8,1/3/2019,98
+R,American Homes 4 Rent,N1,10/3/2019,77,27,11/8/2019
+R,Blackrock MuniYield Quality Fund II Inc.,M8,5/1/2019,76,29,9/1/2019
+O,Vitamin Shoppe Inc,J9,11/11/2019,45
+R,Gray Television Inc.,W3,4/3/2019,6,29,7/31/2019
+O,Ashford Hospitality Trust Inc,F1,8/15/2019,41
+R,Las Vegas Sands Corp.,S2,3/24/2019,66,16,7/21/2019
+O,Occidental Petroleum Corporation,Q2,2/26/2019,93
+O,Fidelity National Financial Inc.,P5,7/13/2019,45
+R,Belden Inc,Q2,3/6/2019,56,20,9/14/2019
+O,MGM Resorts International,Z8,7/25/2019,32
+O,Warrior Met Coal Inc.,Z7,5/18/2019,75
+R,Insight Select Income Fund,F6,9/25/2019,43,17,10/5/2019
+R,U.S. Xpress Enterprises Inc.,S2,11/19/2019,50,14,12/20/2019
+O,Stellus Capital Investment Corporation,R5,5/18/2019,56
+O,Nuveen Georgia Quality Municipal Income Fund ,V3,1/2/2019,20
+R,Maiden Holdings Ltd.,D8,11/11/2019,90,20,11/26/2019
+R,Byline Bancorp Inc.,G1,8/21/2019,13,9,12/18/2019
+R,Gabelli Equity Trust Inc. (The),G3,9/1/2019,76,3,10/28/2019
+R,Fabrinet,E8,7/26/2019,29,29,12/22/2019
+R,Allergan plc.,K7,9/13/2019,49,18,9/15/2019
+R,Brixmor Property Group Inc.,Z8,12/11/2019,53,18,12/29/2019
+O,Revlon Inc.,D8,10/8/2019,36
+R,Flaherty & Crumrine Preferred Income Fund Incorporated,I5,8/9/2019,63,30,11/7/2019
+O,GigCapital Inc.,L1,7/21/2019,80
+O,Genie Energy Ltd.,O2,10/14/2019,20
+R,AAC Holdings Inc.,Z6,11/21/2019,78,15,12/25/2019
+O,CSS Industries Inc.,P8,5/3/2019,25
+O,American Homes 4 Rent,C1,12/2/2019,73
+O,Evercore Inc.,T8,7/12/2019,41
+R,Capitol Investment Corp. IV,M2,11/7/2019,13,26,12/6/2019
+R,Horizon Technology Finance Corporation,A2,7/13/2019,7,15,11/13/2019
+O,Harte-Hanks Inc.,N4,4/14/2019,59
+R,Red Hat Inc.,P4,2/3/2019,33,15,8/17/2019
+O,Teva Pharmaceutical Industries Limited,K6,10/29/2019,12
+O,Synthetic Fixed-Income Securities Inc.,K5,12/5/2019,33
+R,Seadrill Partners LLC,W7,9/1/2019,44,27,10/2/2019
+O,Unilever PLC,Y5,9/24/2019,15
+O,Autoliv Inc.,U9,1/22/2019,92
+O,Fomento Economico Mexicano S.A.B. de C.V.,T1,1/2/2019,29
+R,McKesson Corporation,D1,6/30/2019,83,22,11/27/2019
+O,Bristol-Myers Squibb Company,F2,10/4/2019,49
+R,Noble Corporation,S2,5/25/2019,22,8,9/24/2019
+O,Hersha Hospitality Trust,E1,8/30/2019,50
+R,JMP Group LLC,D1,3/1/2019,8,29,12/1/2019
+R,Tyler Technologies Inc.,P3,6/4/2019,79,29,10/15/2019
+O,Meritage Corporation,H1,11/26/2019,26
+R,China Yuchai International Limited,E1,7/24/2019,56,11,9/13/2019
+O,FleetCor Technologies Inc.,B2,7/6/2019,14
+O,Pimco Income Opportunity Fund,P5,7/9/2019,5
+R,Granite Point Mortgage Trust Inc.,A1,7/23/2019,48,5,12/8/2019
+R,New Mountain Finance Corporation,E5,1/15/2019,92,27,11/14/2019
+R,British American Tobacco p.l.c.,V2,3/18/2019,76,13,12/16/2019
+R,Embotelladora Andina S.A.,P6,12/5/2019,23,24,12/25/2019
+R,Seaspan Corporation,O9,4/17/2019,98,2,9/1/2019
+R,Leo Holdings Corp.,I7,4/11/2019,84,26,6/24/2019
+O,Genpact Limited,I9,5/16/2019,46
+O,Energy Transfer Operating L.P.,S8,3/5/2019,81
+O,Honda Motor Company Ltd.,E4,9/7/2019,5
+O,Dreyfus High Yield Strategies Fund,I5,5/30/2019,33
+O,Diageo plc,T8,11/12/2019,88
+O,AmTrust Financial Services Inc.,Z6,3/10/2019,71
+O,Cabot Oil & Gas Corporation,Y3,10/19/2019,74
+R,Invesco California Value Municipal Income Trust,I4,1/14/2019,81,20,10/24/2019
+R,TRI Pointe Group Inc.,F4,3/16/2019,90,30,4/12/2019
+O,CBRE Clarion Global Real Estate Income Fund,E8,9/28/2019,45
+O,BancorpSouth Bank,G1,3/7/2019,87
+O,Williams-Sonoma Inc.,M9,6/24/2019,69
+R,FIRST REPUBLIC BANK,J1,1/17/2019,31,30,7/13/2019
+O,Special Opportunities Fund Inc.,R4,5/31/2019,95
+R,Dick's Sporting Goods Inc,L5,1/10/2019,86,11,1/23/2019
+O,Domino's Pizza Inc,H3,2/23/2019,86
+R,Sun Communities Inc.,J3,8/27/2019,63,5,12/26/2019
+R,Tekla World Healthcare Fund,K4,11/13/2019,6,8,12/2/2019
+O,Arthur J. Gallagher & Co.,P7,1/18/2019,24
+R,Morgan Stanley,L8,10/5/2019,59,10,12/20/2019
+O,Associated Banc-Corp,A5,1/16/2019,59
+R,Teekay Offshore Partners L.P.,I6,2/15/2019,79,1,10/1/2019
+R,American States Water Company,G5,11/27/2019,90,6,12/21/2019
+O,Companhia de saneamento Basico Do Estado De Sao Paulo - Sabesp,S4,5/3/2019,84
+R,Instructure Inc.,E6,12/15/2019,81,30,12/23/2019
+R,Vornado Realty Trust,T7,4/9/2019,51,7,5/11/2019
+O,Nuveen Mortgage Opportunity Term Fund,Z3,7/8/2019,44
+O,J.M. Smucker Company (The),Q4,12/19/2019,41
+R,KeyCorp,M2,4/1/2019,74,9,5/14/2019
+O,Maiden Holdings Ltd.,A7,2/21/2019,55
+O,Dominion Energy Inc.,U9,4/10/2019,79
+O,National Oilwell Varco Inc.,R7,1/20/2019,48
+R,QEP Resources Inc.,D3,8/16/2019,39,16,9/8/2019
+R,Enel Chile S.A.,A8,2/16/2019,57,28,3/10/2019
+R,United Parcel Service Inc.,P6,11/13/2019,22,15,11/24/2019
+O,Greenhill & Co. Inc.,J6,4/11/2019,55
+O,Thor Industries Inc.,R8,5/23/2019,43
+O,Seadrill Limited,T9,9/28/2019,42
+R,Central Puerto S.A.,K7,5/20/2019,22,29,6/17/2019
+R,PIMCO Commercial Mortgage Securities Trust Inc.,F8,12/4/2019,71,15,12/20/2019
+R,Altria Group,U9,2/14/2019,47,1,8/16/2019
+O,Lazard Ltd.,K6,6/1/2019,95
+R,Zoetis Inc.,D8,1/28/2019,41,16,5/30/2019
+R,PNM Resources Inc. (Holding Co.),Q6,4/24/2019,17,28,11/17/2019
+R,3M Company,Y8,9/17/2019,31,10,11/11/2019
+O,Two Harbors Investments Corp,Z7,5/3/2019,68
+R,Frontline Ltd.,Y6,11/23/2019,34,27,12/4/2019
+O,Nuveen Real Asset Income and Growth Fund,Z1,3/4/2019,42
+R,Clearwater Paper Corporation,C4,4/18/2019,60,22,7/31/2019
+R,BlackRock Maryland Municipal Bond Trust,N5,8/9/2019,53,2,10/25/2019
+R,Conduent Incorporated,U9,10/27/2019,71,28,11/3/2019
+R,FirstEnergy Corp.,S2,11/16/2019,73,17,12/17/2019
+O,Barclays PLC,S9,7/31/2019,7
+R,Kirby Corporation,N1,12/24/2019,7,4,12/26/2019
+R,Anheuser-Busch Inbev SA,P2,6/13/2019,34,8,12/14/2019
+R,Nuveen New Jersey Municipal Value Fund,F8,7/22/2019,45,23,12/9/2019
+R,SJW Group,O9,3/15/2019,41,4,10/11/2019
+O,AmTrust Financial Services Inc.,S3,1/27/2019,74
+O,Pebblebrook Hotel Trust,A9,1/14/2019,77
+R,Emergent Biosolutions Inc.,D7,11/13/2019,52,20,11/29/2019
+O,Babson Global Short Duration High Yield Fund,H2,1/2/2019,82
+R,AZZ Inc.,U3,2/26/2019,96,26,8/14/2019
+O,Tutor Perini Corporation,E1,12/15/2019,74
+R,iStar Inc.,V1,1/15/2019,80,22,6/28/2019
+O,Zayo Group Holdings Inc.,Z5,8/15/2019,63
+O,Invesco Quality Municipal Income Trust,E8,2/11/2019,15
+O,James Hardie Industries plc.,W3,9/11/2019,67
+O,Blackrock MuniYield Michigan Quality Fund Inc.,W3,9/7/2019,35
+O,WEC Energy Group Inc.,B2,2/12/2019,96
+R,CBS Corporation,R3,3/10/2019,77,3,6/15/2019
+O,CooTek (Cayman) Inc.,J2,5/13/2019,96
+O,U.S. Silica Holdings Inc.,Z9,10/30/2019,6
+O,International Business Machines Corporation,S6,12/30/2019,61
+O,Select Medical Holdings Corporation,N4,10/12/2019,38
+R,Union Acquisition Corp.,V1,6/22/2019,63,12,8/8/2019
+R,Lowe's Companies Inc.,A5,3/27/2019,79,28,7/24/2019
+R,Knoll Inc.,B2,2/13/2019,7,16,12/10/2019
+R,Lockheed Martin Corporation,E8,12/11/2019,58,18,12/15/2019
+R,Gabelli Multi-Media Trust Inc. (The),X1,7/8/2019,3,18,9/28/2019
+R,Hyatt Hotels Corporation,K4,10/7/2019,81,12,11/29/2019
+R,PennyMac Financial Services Inc.,E6,9/4/2019,84,16,11/10/2019
+O,SL Green Realty Corp,J5,7/18/2019,53
+O,Petroleo Brasileiro S.A.- Petrobras,Z1,6/23/2019,82
+R,Canadian Pacific Railway Limited,X6,10/21/2019,74,24,11/22/2019
+R,Express Inc.,O7,6/10/2019,46,20,11/29/2019
+R,Pebblebrook Hotel Trust,J1,6/21/2019,89,14,12/11/2019
+O,D.R. Horton Inc.,I3,5/28/2019,79
+R,Nuveen Short Duration Credit Opportunities Fund,U2,2/6/2019,83,13,2/15/2019
+R,Palo Alto Networks Inc.,L4,8/21/2019,65,1,10/2/2019
+O,Hunt Companies Finance Trust Inc.,U8,11/29/2019,69
+O,HSBC Holdings plc,J7,5/13/2019,45
+R,Artisan Partners Asset Management Inc.,G6,6/23/2019,40,13,9/5/2019
+R,Aegon NV,R9,6/24/2019,77,5,10/22/2019
+O,Corporate Office Properties Trust,E8,4/4/2019,51
+R,Tennessee Valley Authority,X1,12/5/2019,13,25,12/15/2019
+R,Retail Value Inc.,U5,8/9/2019,29,20,9/15/2019
+O,Liberty Oilfield Services Inc.,H7,12/23/2019,25
+R,Urstadt Biddle Properties Inc.,M6,3/13/2019,63,12,7/6/2019
+O,Mueller Industries Inc.,Y3,2/21/2019,50
+O,U.S. Bancorp,U7,6/13/2019,16
+O,Tower International Inc.,V7,2/7/2019,74
+R,Quintana Energy Services Inc.,E4,12/17/2019,67,28,12/21/2019
+O,Vectren Corporation,H6,8/8/2019,84
+R,Vectrus Inc.,L6,1/25/2019,12,28,9/29/2019
+R,Gabelli Equity Trust Inc. (The),T7,7/13/2019,42,2,12/15/2019
+O,International Game Technology,P9,2/5/2019,41
+O,PLDT Inc.,I9,2/8/2019,31
+O,Armstrong Flooring Inc.,X8,12/15/2019,83
+R,Horizon Global Corporation,W2,5/9/2019,15,19,8/31/2019
+R,Goldman Sachs Group Inc. (The),T2,7/18/2019,30,7,11/26/2019
+R,Revlon Inc.,B1,11/3/2019,80,7,12/18/2019
+R,Oracle Corporation,H3,10/10/2019,10,25,11/8/2019
+O,Armstrong World Industries Inc,C4,11/29/2019,5
+O,Ally Financial Inc.,V2,9/11/2019,42
+R,Choice Hotels International Inc.,G5,8/13/2019,84,27,8/18/2019
+R,HUYA Inc.,Z6,9/5/2019,24,8,11/23/2019
+R,Centrais Electricas Brasileiras S.A.- Eletrobras,D3,1/24/2019,79,7,9/1/2019
+R,Babson Global Short Duration High Yield Fund,K4,6/24/2019,59,19,10/30/2019
+R,United States Cellular Corporation,E7,11/5/2019,91,12,12/27/2019
+R,One Madison Corporation,L3,7/23/2019,33,1,12/9/2019
+R,Dreyfus High Yield Strategies Fund,X4,3/21/2019,31,6,6/10/2019
+R,GigCapital Inc.,H9,2/26/2019,12,2,9/29/2019
+R,Pennsylvania Real Estate Investment Trust,L8,12/13/2019,19,26,12/15/2019
+R,TRI Pointe Group Inc.,U9,5/20/2019,35,13,6/15/2019
+R,Argo Group International Holdings Ltd.,B4,11/7/2019,83,12,12/6/2019
+R,Ormat Technologies Inc.,Y6,12/17/2019,8,1,12/29/2019
+R,EQM Midstream Partners LP,R5,12/15/2019,61,26,12/26/2019
+R,RTW Retailwinds Inc.,I4,6/30/2019,80,30,8/7/2019
+R,Delek US Holdings Inc.,L3,7/4/2019,70,17,9/28/2019
+R,Exantas Capital Corp.,W3,12/24/2019,84,9,12/28/2019
+R,Customers Bancorp Inc,R1,5/13/2019,85,22,10/10/2019
+R,Zions Bancorporation N.A.,N7,2/3/2019,56,8,2/5/2019
+R,DTE Energy Company,A8,8/31/2019,87,19,11/8/2019
+O,Advanced Disposal Services Inc.,Y7,3/21/2019,51
+O,Cullen/Frost Bankers Inc.,L3,12/18/2019,91
+R,Equity Residential,K5,6/25/2019,86,21,11/19/2019
+O,Horace Mann Educators Corporation,O3,1/27/2019,92
+R,Nuveen Select Maturities Municipal Fund,W8,2/5/2019,52,4,9/17/2019
+O,ING Group N.V.,X4,1/11/2019,55
+R,Diamond Offshore Drilling Inc.,F6,7/18/2019,82,26,11/12/2019
+R,MFA Financial Inc.,D2,1/23/2019,5,27,11/29/2019
+R,Western Asset Managed Municipals Fund Inc.,T1,8/22/2019,79,6,11/29/2019
+R,Citizens Financial Group Inc.,R2,8/1/2019,98,11,10/2/2019
+O,Washington Real Estate Investment Trust,D4,1/4/2019,94
+R,Cushing MLP & Infrastructure Total Return Fund,K8,3/9/2019,76,29,8/17/2019
+O,W.R. Berkley Corporation,M1,6/22/2019,82
+O,Bluegreen Vacations Corporation,C9,9/12/2019,40
+O,Pioneer Municipal High Income Advantage Trust,Y4,7/4/2019,19
+O,LiveRamp Holdings Inc.,D2,11/4/2019,32
+R,CMS Energy Corporation,B8,6/11/2019,8,27,11/7/2019
+O,Public Storage,K6,2/17/2019,89
+O,Weis Markets Inc.,Q6,3/11/2019,82
+R,GasLog Partners LP,X2,6/28/2019,73,21,8/31/2019
+R,Gorman-Rupp Company (The),K9,9/7/2019,88,16,12/1/2019
+R,Enerplus Corporation,A6,2/11/2019,20,9,6/21/2019
+R,EPR Properties,X6,9/15/2019,38,27,12/11/2019
+O,Public Storage,R1,3/29/2019,9
+O,Black Hills Corporation,C7,11/13/2019,27
+O,M&T Bank Corporation,X2,9/15/2019,35
+O,International Game Technology,A5,9/1/2019,93
+O,Universal Health Services Inc.,T9,11/3/2019,68
+O,H&R Block Inc.,C4,10/31/2019,92
+R,Oi S.A.,I4,6/15/2019,14,29,7/6/2019
+O,Embotelladora Andina S.A.,X5,9/3/2019,20
+O,Southern Company (The),E9,11/5/2019,44
+O,Aegon NV,A9,5/30/2019,98
+O,Studio City International Holdings Limited,I4,10/13/2019,4
+O,S&P Global Inc.,Z4,2/23/2019,68
+R,New York Community Bancorp Inc.,N3,12/24/2019,59,8,12/29/2019
+R,PIMCO California Municipal Income Fund III,H2,3/23/2019,16,23,12/6/2019
+R,Citigroup Inc.,H4,2/17/2019,41,13,11/13/2019
+O,Pennsylvania Real Estate Investment Trust,P7,6/5/2019,27
+O,DAQO New Energy Corp.,C1,10/28/2019,32
+O,Apollo Global Management LLC,N4,7/17/2019,95
+O,Armstrong World Industries Inc,Q8,11/13/2019,34
+O,Unum Group,G2,1/29/2019,83
+O,First Trust New Opportunities MLP & Energy Fund,C3,3/23/2019,90
+R,SandRidge Mississippian Trust II,M7,3/21/2019,96,1,5/20/2019
+R,GP Strategies Corporation,P3,12/21/2019,93,16,12/29/2019
+R,Saratoga Investment Corp,A7,2/20/2019,37,18,10/16/2019
+O,Kemet Corporation,M5,4/2/2019,82
+O,Apollo Global Management LLC,A8,4/20/2019,78
+R,The Vivaldi Opportunities Fund,J7,3/12/2019,78,14,4/10/2019
+O,FB Financial Corporation,U2,1/15/2019,36
+O,Waste Management Inc.,D9,3/26/2019,86
+O,Noble Energy Inc.,R4,10/18/2019,27
+R,U.S. Bancorp,F6,4/20/2019,56,13,11/1/2019
+R,Goldman Sachs Group Inc. (The),O5,1/6/2019,48,22,4/19/2019
+R,Nustar Energy L.P.,N1,7/26/2019,70,20,10/21/2019
+R,Encompass Health Corporation,I6,12/4/2019,96,19,12/25/2019
+O,Cohen & Steers Global Income Builder Inc.,P1,5/20/2019,84
+O,Urban Edge Properties,U2,7/27/2019,74
+O,Teledyne Technologies Incorporated,A9,7/28/2019,27
+R,Prudential Financial Inc.,C2,8/27/2019,9,5,12/22/2019
+O,W.R. Berkley Corporation,W4,6/10/2019,92
+R,PetroChina Company Limited,J2,3/28/2019,15,22,8/16/2019
+O,Wells Fargo & Company,Y1,5/7/2019,82
+R,HC2 Holdings Inc.,F5,12/2/2019,43,12,12/9/2019
+O,Lloyds Banking Group Plc,G7,2/20/2019,88
+O,STARWOOD PROPERTY TRUST Inc.,J3,11/18/2019,91
+O,Eaton vance Floating-Rate Income Plus Fund,N5,9/4/2019,51
+R,Natuzzi S.p.A.,U8,4/17/2019,43,12,11/6/2019
+R,Halcon Resources Corporation,P2,2/25/2019,4,25,11/10/2019
+R,Walt Disney Company (The),P3,8/31/2019,84,2,12/20/2019
+R,Talos Energy Inc.,M9,3/18/2019,35,1,10/7/2019
+O,Eaton Vance Municipal Income 2028 Term Trust,I3,9/24/2019,9
+R,NASDAQ TEST STOCK,A2,11/14/2019,92,5,12/11/2019
+R,Evergy Inc.,W8,9/13/2019,86,11,9/16/2019
+O,Haemonetics Corporation,M3,9/12/2019,72
+O,Safe Bulkers Inc,N2,8/25/2019,42
+R,Ameresco Inc.,L3,7/25/2019,93,29,11/14/2019
+O,Western Asset Mortgage Defined Opportunity Fund Inc,V3,6/8/2019,74
+O,Acco Brands Corporation,N6,3/29/2019,30
+O,Lennox International Inc.,N7,12/5/2019,22
+R,Harte-Hanks Inc.,R2,7/22/2019,86,30,10/14/2019
+O,Hersha Hospitality Trust,S6,11/4/2019,81
+R,Veoneer Inc.,H1,1/22/2019,36,1,7/18/2019
+R,Apollo Investment Corporation,O1,2/1/2019,72,15,7/28/2019
+R,Collier Creek Holdings,Y9,9/16/2019,81,12,10/23/2019
+R,Banc of California Inc.,H9,8/2/2019,62,1,11/20/2019
+R,Eagle Point Credit Company Inc.,U6,8/5/2019,11,21,12/23/2019
+O,Eldorado Gold Corporation,E9,6/6/2019,62
+O,IRSA Inversiones Y Representaciones S.A.,Y7,9/14/2019,21
+R,Blackrock Municipal Income Quality Trust,B3,8/8/2019,79,7,8/16/2019
+R,Equinor ASA,K7,3/3/2019,59,4,8/25/2019
+R,Packaging Corporation of America,M5,10/5/2019,39,19,10/25/2019
+R,Bellatrix Exploration Ltd,K4,7/29/2019,97,9,8/28/2019
+R,Wells Fargo & Company,Q2,6/14/2019,53,6,11/12/2019
+O,Barclays PLC,I3,12/3/2019,73
+O,Cummins Inc.,B5,4/25/2019,89
+R,Liberty Property Trust,I4,4/19/2019,41,2,7/15/2019
+O,Petroleo Brasileiro S.A.- Petrobras,X7,5/1/2019,99
+R,Waters Corporation,C9,3/29/2019,59,18,11/5/2019
+O,Crown Castle International Corporation,H9,11/18/2019,84
+O,PGIM Short Duration High Yield Fund Inc.,L6,3/29/2019,80
+O,Robert Half International Inc.,W9,4/10/2019,56
+O,Ita? CorpBanca,D6,11/15/2019,69
+O,KNOT Offshore Partners LP,U5,11/21/2019,62
+R,MPLX LP,S6,8/8/2019,18,19,8/31/2019
+O,American Assets Trust Inc.,X5,6/29/2019,55
+O,ServiceNow Inc.,S3,11/17/2019,7
+O,Buckle Inc. (The),X7,6/22/2019,7
+O,New America High Income Fund Inc. (The),Z4,2/16/2019,12
+R,Sunlands Online Education Group,D8,12/11/2019,32,18,12/15/2019
+R,Sealed Air Corporation,C7,7/23/2019,6,26,9/24/2019
+O,Legg Mason Inc.,W2,12/28/2019,71
+R,Embraer S.A.,C4,12/13/2019,52,11,12/29/2019
+R,Barings BDC Inc.,Y4,9/20/2019,89,22,12/7/2019
+O,Third Point Reinsurance Ltd.,X8,11/24/2019,15
+R,Earthstone Energy Inc.,F8,10/24/2019,97,21,11/28/2019
+R,Continental Building Products Inc.,U7,1/12/2019,53,7,10/7/2019
+O,Mechel PAO,C7,6/16/2019,90
+R,EnLink Midstream LLC,W8,5/28/2019,9,14,7/23/2019
+O,Two Harbors Investments Corp,X9,11/25/2019,47
+R,Kennametal Inc.,G3,5/8/2019,85,22,11/7/2019
+O,Gold Fields Limited,K7,6/13/2019,67
+O,Unilever NV,O6,7/4/2019,41
+O,Bank of America Corporation,S1,2/17/2019,55
+O,Spirit Aerosystems Holdings Inc.,J2,1/17/2019,21
+R,SandRidge Mississippian Trust II,W1,11/12/2019,13,16,12/7/2019
+O,First Majestic Silver Corp.,J5,6/27/2019,27
+R,Blackrock MuniYield Fund Inc.,G7,8/18/2019,93,16,8/24/2019
+R,CONSOL Coal Resources LP,Q9,6/5/2019,22,19,11/19/2019
+O,Blackrock MuniYield Pennsylvania Quality Fund,M6,2/22/2019,62
+R,Nuveen Mortgage Opportunity Term Fund,X8,12/3/2019,5,22,12/5/2019
+O,Azure Power Global Limited,Z9,12/3/2019,1
+O,Central Puerto S.A.,V7,6/8/2019,37
+R,Boise Cascade L.L.C.,R6,8/31/2019,16,29,10/3/2019
+O,Arcosa Inc.,M6,5/2/2019,92
+O,GigCapital Inc.,O9,2/17/2019,87
+O,Under Armour Inc.,E3,5/30/2019,10
+O,Pebblebrook Hotel Trust,C3,8/20/2019,21
+R,Western Asset Bond Fund,X7,10/25/2019,32,6,12/7/2019
+R,Seadrill Partners LLC,Y9,1/9/2019,10,8,2/25/2019
+O,Hersha Hospitality Trust,P4,10/18/2019,43
+R,NASDAQ TEST STOCK,W2,6/14/2019,70,1,7/25/2019
+R,Braemar Hotels & Resorts Inc.,R1,6/17/2019,30,3,12/16/2019
+R,Easterly Government Properties Inc.,F2,12/16/2019,13,7,12/25/2019
+O,Sunstone Hotel Investors Inc.,T4,2/2/2019,9
+R,Diamond Offshore Drilling Inc.,D1,7/24/2019,20,4,8/28/2019
+O,Loma Negra Compania Industrial Argentina Sociedad Anonima,N6,12/19/2019,18
+R,SM Energy Company,B9,12/21/2019,54,10,12/29/2019
+R,Ashford Hospitality Trust Inc,O1,1/27/2019,77,3,8/8/2019
+R,Pinnacle West Capital Corporation,I1,12/9/2019,98,8,12/22/2019
+R,One Madison Corporation,V4,1/12/2019,4,13,12/28/2019
+O,America Movil S.A.B. de C.V.,K3,6/26/2019,72
+O,Post Holdings Inc.,E1,9/9/2019,95
+R,SCIENCE APPLICATIONS INTERNATIONAL CORPORATION,T9,5/31/2019,6,6,9/8/2019
+R,Flotek Industries Inc.,G1,11/17/2019,18,10,12/10/2019
+R,Franco-Nevada Corporation,C5,11/25/2019,62,20,12/30/2019
+R,ICICI Bank Limited,N8,9/15/2019,67,3,10/26/2019
+R,Niagara Mohawk Holdings Inc.,E2,1/22/2019,74,26,2/22/2019
+O,Movado Group Inc.,J1,11/6/2019,65
+O,Chesapeake Energy Corporation,C6,5/28/2019,26
+R,Harsco Corporation,I5,8/18/2019,22,30,11/10/2019
+R,Capitol Investment Corp. IV,Q8,6/25/2019,87,10,8/17/2019
+R,Royal Dutch Shell PLC,E8,4/4/2019,12,15,5/14/2019
+R,Atmos Energy Corporation,Q9,11/26/2019,57,8,12/3/2019
+R,Renren Inc.,J8,6/29/2019,38,17,10/19/2019
+R,Enbridge Inc,A7,6/1/2019,77,24,12/30/2019
+R,Equus Total Return Inc.,J3,2/7/2019,18,23,8/27/2019
+R,DXC Technology Company,O6,9/2/2019,91,29,11/12/2019
+O,Cincinnati Bell Inc,P8,8/28/2019,14
+O,BlackRock Income Investment Quality Trust,I1,4/8/2019,13
+R,Norwegian Cruise Line Holdings Ltd.,F3,1/15/2019,58,28,6/29/2019
+O,Biglari Holdings Inc.,P5,10/25/2019,88
+R,Marcus Corporation (The),A3,6/1/2019,50,21,8/9/2019
+O,Pennsylvania Real Estate Investment Trust,S1,1/15/2019,48
+O,CenturyLink Inc.,D8,8/11/2019,49
+O,Anadarko Petroleum Corporation,U1,8/14/2019,1
+R,Venator Materials PLC,Y2,2/8/2019,66,16,7/28/2019
+R,Eaton Vance Corporation,B9,6/22/2019,47,25,12/30/2019
+R,Phillips 66 Partners LP,L8,9/5/2019,74,1,11/23/2019
+R,Capitol Investment Corp. IV,Y7,1/12/2019,39,19,2/20/2019
+R,A.O Smith Corporation,M8,5/17/2019,85,8,8/12/2019
+R,Gerdau S.A.,D6,1/20/2019,1,4,11/28/2019
+R,Controladora Vuela Compania de Aviacion S.A.B. de C.V.,L3,5/17/2019,5,17,9/11/2019
+R,Corporate Asset Backed Corp CABCO,C6,11/8/2019,91,21,12/23/2019
+R,El Paso Electric Company,H6,4/2/2019,77,17,6/18/2019
+O,The Rubicon Project Inc.,P6,4/22/2019,14
+R,Argo Group International Holdings Ltd.,F2,4/11/2019,32,6,11/10/2019
+R,Nuveen S&P 500 Buy-Write Income Fund,L4,9/19/2019,2,12,11/13/2019
+O,Emergent Biosolutions Inc.,P7,7/17/2019,47
+O,Entergy Arkansas LLC,O8,12/8/2019,51
+R,Natuzzi S.p.A.,D6,9/5/2019,94,14,12/20/2019
+R,Virtus Global Dividend & Income Fund Inc.,P3,6/15/2019,44,6,7/23/2019
+O,Barrick Gold Corporation,N4,3/8/2019,69
+R,Atlantic Power Corporation,H1,7/23/2019,11,19,8/5/2019
+R,ING Group N.V.,D1,12/1/2019,45,25,12/22/2019
+R,EnPro Industries,C9,7/28/2019,98,7,8/30/2019
+O,Loma Negra Compania Industrial Argentina Sociedad Anonima,F2,3/15/2019,61
+R,Leju Holdings Limited,R7,7/14/2019,75,15,8/12/2019
+O,Univar Inc.,C4,4/15/2019,66
+O,Portland General Electric Company,C1,6/14/2019,51
+R,Nuven Mortgage Opportunity Term Fund 2,Z9,6/8/2019,62,28,11/13/2019
+O,TransAlta Corporation,U1,7/18/2019,85
+R,Leo Holdings Corp.,X7,10/24/2019,29,26,11/1/2019
+O,Obsidian Energy Ltd.,K2,5/14/2019,30
+R,RLI Corp.,Y1,11/11/2019,97,11,11/30/2019
+O,Takeda Pharmaceutical Company Limited,B2,1/14/2019,1
+R,Spotify Technology S.A.,V5,10/27/2019,10,5,12/11/2019
+R,Cheetah Mobile Inc.,E6,5/24/2019,87,17,8/27/2019
+R,Prologis Inc.,Y9,9/4/2019,27,27,10/19/2019
+O,Flagstar Bancorp Inc.,P7,5/3/2019,98
+O,M/I Homes Inc.,V1,11/18/2019,7
+O,BankUnited Inc.,B9,9/6/2019,25
+O,Gerdau S.A.,S7,4/14/2019,91
+R,Danaos Corporation,F4,12/8/2019,46,2,12/29/2019
+O,Hill-Rom Holdings Inc,T9,9/2/2019,37
+O,Tortoise Midstream Energy Fund Inc.,Z9,12/8/2019,63
+O,PGIM Global Short Duration High Yield Fund Inc.,E9,12/8/2019,76
+R,JinkoSolar Holding Company Limited,I5,6/21/2019,35,22,12/23/2019
+O,Federated Investors Inc.,E9,9/15/2019,39
+R,MFS Municipal Income Trust,R6,7/16/2019,7,8,7/17/2019
+O,Vocera Communications Inc.,I5,6/27/2019,13
+R,Invesco Municipal Opportunity Trust,N3,5/13/2019,37,11,9/22/2019
+R,GigCapital Inc.,L4,2/15/2019,38,6,8/1/2019
+O,NIO Inc.,O7,12/2/2019,76
+R,Flaherty & Crumrine Total Return Fund Inc,J5,3/3/2019,26,1,10/21/2019
+R,Solaris Oilfield Infrastructure Inc.,M4,8/28/2019,60,3,10/2/2019
+O,Invesco Senior Income Trust,O9,3/19/2019,12
+R,Mitsubishi UFJ Financial Group Inc,W8,12/6/2019,17,24,12/13/2019
+R,Lannett Co Inc,L3,12/19/2019,62,29,12/23/2019
+R,PLDT Inc.,U2,3/23/2019,5,12,4/2/2019
+R,Whitestone REIT,X2,6/30/2019,65,12,8/7/2019
+R,Prosperity Bancshares Inc.,H9,2/22/2019,32,7,10/9/2019
+O,Wabash National Corporation,C5,7/19/2019,76
+O,Ally Financial Inc.,M5,5/9/2019,87
+O,Tennessee Valley Authority,I3,2/12/2019,30
+O,Knowles Corporation,B8,2/13/2019,88
+R,Cohen & Steers Total Return Realty Fund Inc.,J2,1/1/2019,21,26,1/19/2019
+O,Tejon Ranch Co,R8,5/10/2019,87
+O,Macro Bank Inc.,V7,6/27/2019,46
+O,Welltower Inc.,H5,2/16/2019,36
+R,STERIS plc,A5,8/2/2019,45,28,12/17/2019
+R,Antero Midstream GP LP,U6,1/6/2019,93,9,11/8/2019
+O,3M Company,X5,2/2/2019,22
+R,Studio City International Holdings Limited,F8,12/11/2019,54,23,12/21/2019
+R,KBR Inc.,G4,10/29/2019,82,28,12/19/2019
+R,Leo Holdings Corp.,M7,6/6/2019,63,8,8/10/2019
+R,OFG Bancorp,N6,8/9/2019,29,18,11/14/2019
+R,Cohen & Steers Global Income Builder Inc.,N2,3/14/2019,34,9,10/11/2019
+O,MEDIFAST INC,T1,5/31/2019,31
+O,Noble Corporation,J1,4/24/2019,57
+R,Commercial Metals Company,O3,11/6/2019,28,21,12/12/2019
+O,Duke Energy Corporation,D7,3/18/2019,46
+R,Grupo Televisa S.A.,M1,8/16/2019,30,19,10/15/2019
+R,Wayfair Inc.,E5,12/4/2019,56,27,12/28/2019
+O,Huntington Ingalls Industries Inc.,D4,7/25/2019,63
+O,FMC Corporation,G3,2/22/2019,25
+O,Avanos Medical Inc.,C5,1/31/2019,22
+O,Agnico Eagle Mines Limited,P5,6/15/2019,49
+R,Pioneer Energy Services Corp.,F2,4/2/2019,49,18,4/16/2019
+O,Gabelli Dividend,J9,9/22/2019,80
+R,KKR Income Opportunities Fund,A1,12/23/2019,80,30,12/27/2019
+O,Unisys Corporation,G7,5/19/2019,19
+O,Seaspan Corporation,E1,12/18/2019,3
+O,Berkshire Hathaway Inc.,M8,6/20/2019,87
+R,MGIC Investment Corporation,K7,12/27/2019,79,19,12/29/2019
+O,Rockwell Automation Inc.,Z9,5/11/2019,92
+R,Nelnet Inc.,S9,11/27/2019,11,6,12/27/2019
+O,Avangrid Inc.,I6,5/25/2019,62
+R,Blackrock Global,M1,4/17/2019,20,3,6/10/2019
+O,Safeguard Scientifics Inc.,M5,7/10/2019,73
+O,Tsakos Energy Navigation Ltd,S3,3/10/2019,93
+O,Civeo Corporation,H1,5/15/2019,96
+R,Community Healthcare Trust Incorporated,S3,4/2/2019,41,3,10/24/2019
+R,The Gabelli Healthcare & Wellness Trust,D9,6/15/2019,77,19,12/3/2019
+O,Cohen & Steers Total Return Realty Fund Inc.,M4,9/22/2019,44
+O,Urstadt Biddle Properties Inc.,G1,11/29/2019,40
+O,Ashford Hospitality Trust Inc,P8,3/8/2019,94
+O,Nuveen Michigan Quality Municipal Income Fund,J4,8/29/2019,10
+R,Eaton Vance Senior Floating-Rate Fund,G9,5/14/2019,6,22,9/24/2019
+R,Renren Inc.,O5,8/25/2019,35,23,10/21/2019
+O,Entergy Arkansas LLC,L6,11/28/2019,71
+O,Teva Pharmaceutical Industries Limited,B3,6/30/2019,17
+R,Eastman Kodak Company,Y6,8/30/2019,56,28,10/18/2019
+O,Vapotherm Inc.,K8,12/26/2019,46
+O,Banco Bilbao Viscaya Argentaria S.A.,B9,9/28/2019,40
+O,Tidewater Inc.,A9,7/12/2019,92
+R,Amneal Pharmaceuticals Inc.,N4,2/21/2019,54,3,8/17/2019
+R,Carvana Co.,H2,8/8/2019,10,16,11/9/2019
+R,John Hancock Tax Advantaged Dividend Income Fund,V6,5/23/2019,90,6,8/16/2019
+R,Colgate-Palmolive Company,Q8,5/17/2019,48,14,11/9/2019
+O,Bank of America Corporation,T3,3/6/2019,69
+O,BB&T Corporation,M8,9/25/2019,44
+R,Chimera Investment Corporation,R7,5/26/2019,21,4,11/5/2019
+R,First Trust MLP and Energy Income Fund,V8,2/18/2019,59,16,7/16/2019
+O,National Retail Properties,R6,11/17/2019,65
+O,Nuveen Mortgage Opportunity Term Fund,D5,4/29/2019,37
+O,UMH Properties Inc.,S7,7/22/2019,41
+R,Canadian Pacific Railway Limited,U6,1/22/2019,81,2,8/8/2019
+R,Pioneer Natural Resources Company,J4,2/17/2019,44,18,6/5/2019
+O,Equity Commonwealth,P4,10/11/2019,84
+O,Lithium Americas Corp.,I5,3/13/2019,14
+R,National Storage Affiliates Trust,T7,4/29/2019,68,10,9/14/2019
+O,TE Connectivity Ltd.,I5,12/2/2019,75
+O,Hi-Crush Partners LP,P4,7/6/2019,84
+O,Unum Group,T6,5/19/2019,78
+O,Eaton Vance Floating Rate Income Trust,U9,10/24/2019,29
+R,JELD-WEN Holding Inc.,Z1,8/29/2019,72,16,10/23/2019
+O,MPLX LP,E8,10/19/2019,46
+O,Legacy Acquisition Corp.,S1,12/24/2019,34
+O,SEACOR Holdings Inc.,J2,12/13/2019,63
+O,L3 Technologies Inc.,T6,8/18/2019,83
+O,PIMCO Municipal Income Fund,Y7,4/17/2019,85
+O,SailPoint Technologies Holdings Inc.,N4,7/16/2019,57
+O,Mallinckrodt plc,L7,10/28/2019,96
+O,NGL ENERGY PARTNERS LP,I1,12/6/2019,83
+O,Diageo plc,V2,1/19/2019,12
+R,Eclipse Resources Corporation,U7,2/15/2019,10,13,11/20/2019
+R,Cohen & Steers Total Return Realty Fund Inc.,B8,10/14/2019,86,30,11/21/2019
+R,Catalent Inc.,M1,10/31/2019,59,4,11/13/2019
+O,Mosaic Acquisition Corp.,G8,6/26/2019,96
+O,China Southern Airlines Company Limited,U4,9/15/2019,37
+R,FactSet Research Systems Inc.,R7,2/9/2019,48,9,6/23/2019
+R,Wells Fargo & Company,N1,2/11/2019,58,23,3/7/2019
+O,Actuant Corporation,F8,5/14/2019,46
+R,GS Acquisition Holdings Corp.,J7,8/16/2019,3,25,8/24/2019
+O,One Liberty Properties Inc.,Y9,7/29/2019,74
+R,California Water Service Group Holding,N2,4/18/2019,81,4,7/3/2019
+R,Watsco Inc.,S7,3/14/2019,40,8,6/12/2019
+O,GoDaddy Inc.,W4,12/11/2019,24
+R,PennyMac Mortgage Investment Trust,X7,3/28/2019,27,17,9/10/2019
+O,Western Asset Mortgage Defined Opportunity Fund Inc,R3,10/13/2019,56
+R,Goldman Sachs Group Inc. (The),Y4,8/17/2019,97,15,10/5/2019
+R,Flowserve Corporation,W9,4/13/2019,16,20,5/5/2019
+R,Customers Bancorp Inc,G2,9/26/2019,98,11,10/24/2019
+O,TPG Pace Holdings Corp.,N3,9/23/2019,62
+R,Summit Hotel Properties Inc.,V2,12/7/2019,70,15,12/12/2019
+R,New York Times Company (The),I4,11/16/2019,64,7,11/24/2019
+R,Lowe's Companies Inc.,Q5,9/14/2019,32,13,11/7/2019
+R,Carter's Inc.,E1,6/20/2019,44,28,11/11/2019
+R,GrubHub Inc.,Y7,2/13/2019,43,21,8/15/2019
+R,First American Corporation (The),Z6,2/11/2019,99,3,11/11/2019
+O,World Wrestling Entertainment Inc.,C2,10/26/2019,59
+O,Acco Brands Corporation,X3,6/25/2019,80
+O,PermRock Royalty Trust,B2,12/25/2019,24
+R,Teekay Offshore Partners L.P.,N5,6/14/2019,8,1,8/24/2019
+R,ManpowerGroup,T2,2/8/2019,23,19,8/10/2019
+R,Honeywell International Inc.,P4,5/24/2019,21,19,12/29/2019
+O,Banco Santander Mexico S.A. Institucion de Ban,M3,5/11/2019,79
+O,Leaf Group Ltd.,H4,8/5/2019,7
+O,Invesco Senior Income Trust,B8,1/29/2019,73
+O,Basic Energy Services Inc.,N4,11/25/2019,74
+R,Cementos Pacasmayo S.A.A.,C6,10/19/2019,81,16,11/2/2019
+O,Tempur Sealy International Inc.,M8,1/4/2019,68
+R,Nuveen Select Tax Free Income Portfolio III,U8,8/20/2019,62,17,10/20/2019
+R,Tower International Inc.,X8,2/13/2019,36,11,7/5/2019
+R,Brunswick Corporation,X4,7/18/2019,21,11,10/5/2019
+O,New York Community Bancorp Inc.,C5,3/23/2019,73
+R,GreenTree Hospitality Group Ltd.,S8,2/16/2019,93,12,10/19/2019
+R,Algonquin Power & Utilities Corp.,G2,5/1/2019,54,10,7/18/2019
+R,Old Republic International Corporation,V8,8/30/2019,82,12,12/7/2019
+O,Telecom Italia S.P.A.,W7,1/8/2019,26
+O,Allstate Corporation (The),Q6,3/15/2019,98
+O,Nuveen Select Tax Free Income Portfolio II,H8,4/28/2019,55
+O,Retail Properties of America Inc.,W8,4/25/2019,75
+R,Atmos Energy Corporation,Z4,9/13/2019,11,4,12/29/2019
+R,Energy Transfer L.P.,F9,12/15/2019,6,27,12/21/2019
+O,Harley-Davidson Inc.,P3,11/3/2019,61
+O,Corning Incorporated,Z9,4/26/2019,55
+R,Merck & Company Inc.,R5,12/22/2019,43,8,12/25/2019
+R,Kite Realty Group Trust,X7,11/22/2019,7,23,12/23/2019
+O,Tapestry Inc.,U2,12/21/2019,66
+R,Stoneridge Inc.,N8,2/3/2019,43,7,12/18/2019
+O,Star Group L.P.,C7,1/27/2019,75
+O,SailPoint Technologies Holdings Inc.,H7,5/5/2019,62
+O,Braemar Hotels & Resorts Inc.,K8,7/28/2019,4
+R,Tapestry Inc.,H8,11/5/2019,63,17,12/9/2019
+R,Arlington Asset Investment Corp,A6,2/1/2019,15,7,2/2/2019
+R,Tenet Healthcare Corporation,U8,9/19/2019,47,11,11/3/2019
+R,Megalith Financial Acquisition Corp.,J6,12/25/2019,92,26,12/26/2019
+O,AXA Equitable Holdings Inc.,C4,7/25/2019,72
+O,Advance Auto Parts Inc,X3,8/25/2019,95
+R,Twilio Inc.,U4,12/24/2019,75,17,12/29/2019
+O,ProPetro Holding Corp.,H2,6/5/2019,27
+R,Tsakos Energy Navigation Ltd,D1,12/14/2019,14,16,12/27/2019
+O,Ralph Lauren Corporation,O6,9/11/2019,2
+O,Watts Water Technologies Inc.,A8,5/17/2019,73
+R,Suzano Papel e Celulose S.A.,O2,11/5/2019,91,1,11/17/2019
+O,Saul Centers Inc.,U5,2/18/2019,13
+O,Stanley Black & Decker Inc.,N6,12/25/2019,29
+R,Catalent Inc.,T4,6/15/2019,19,24,7/15/2019
+R,CoreLogic Inc.,B2,11/7/2019,99,16,11/10/2019
+R,NACCO Industries Inc.,L4,11/21/2019,12,13,12/18/2019
+O,Nuveen Tax-Advantaged Dividend Growth Fund,L8,3/13/2019,56
+R,Clearwater Paper Corporation,D4,3/31/2019,77,1,9/3/2019
+O,EnLink Midstream LLC,Q8,9/11/2019,56
+O,Argo Group International Holdings Ltd.,O9,11/8/2019,68
+R,Capital One Financial Corporation,U8,5/14/2019,51,25,10/5/2019
+O,Mastercard Incorporated,T5,11/17/2019,17
+O,PNC Financial Services Group Inc. (The),F1,4/10/2019,52
+O,Lehman ABS Corporation,S6,1/25/2019,90
+R,Argo Group International Holdings Ltd.,B8,9/14/2019,30,7,11/12/2019
+R,Motorola Solutions Inc.,V1,4/24/2019,59,21,5/4/2019
+O,J P Morgan Chase & Co,Q9,2/28/2019,42
+R,USLIFE Income Fund Inc.,P3,4/3/2019,70,17,8/25/2019
+O,Xenia Hotels & Resorts Inc.,Z3,8/28/2019,28
+O,Banco De Chile,W2,1/20/2019,73
+O,Centrais Electricas Brasileiras S.A.- Eletrobras,G1,7/28/2019,27
+O,TriplePoint Venture Growth BDC Corp.,Y6,1/4/2019,18
+R,ITT Inc.,H9,5/16/2019,55,9,6/13/2019
+O,PermRock Royalty Trust,O9,11/27/2019,77
+O,Continental Resources Inc.,A1,8/19/2019,41
+R,Genesis Healthcare Inc.,J5,8/9/2019,31,6,12/5/2019
+O,Entergy Louisiana Inc.,Y3,1/30/2019,51
+R,Verizon Communications Inc.,I3,7/22/2019,53,2,8/18/2019
+O,Sumitomo Mitsui Financial Group Inc,L2,5/13/2019,78
+O,Duff & Phelps Global Utility Income Fund Inc.,X3,6/28/2019,45
+O,Allstate Corporation (The),N8,1/23/2019,46
+O,Blackrock MuniYield California Insured Fund Inc.,E2,11/9/2019,35
+O,CVS Health Corporation,J4,5/22/2019,40
+R,Frontline Ltd.,X7,7/19/2019,73,14,12/12/2019
+R,Prologis Inc.,Z7,6/21/2019,69,2,10/24/2019
+R,L.S. Starrett Company (The),A1,6/19/2019,9,11,10/11/2019
+O,Generac Holdlings Inc.,E6,6/2/2019,57
+R,Seadrill Limited,G4,6/20/2019,64,29,10/5/2019
+O,STRATS Trust,A4,3/27/2019,59
+R,Consolidated Edison Inc,X2,11/7/2019,82,1,12/1/2019
+O,NASDAQ TEST STOCK,J2,3/15/2019,71
+O,BRF S.A.,B6,3/12/2019,97
+O,Bank of America Corporation,H1,11/14/2019,87
+O,Armstrong Flooring Inc.,K2,5/19/2019,97
+R,SunCoke Energy Partners L.P.,G8,5/10/2019,15,13,6/28/2019
+O,Energizer Holdings Inc.,K9,12/23/2019,43
+O,Gabelli Dividend,P3,3/30/2019,38
+R,MuniVest Fund Inc.,Q4,4/3/2019,43,29,10/8/2019
+O,SunCoke Energy Inc.,C7,7/1/2019,42
+O,Advanced Disposal Services Inc.,P8,7/25/2019,22
+R,RELX PLC,L3,8/8/2019,19,19,10/15/2019
+R,W.R. Berkley Corporation,T2,11/27/2019,23,15,11/28/2019
+R,SilverBow Resorces Inc.,R6,6/9/2019,39,20,7/10/2019
+O,Palo Alto Networks Inc.,S8,5/14/2019,88
+O,Orange,F1,3/27/2019,90
+R,Simpson Manufacturing Company Inc.,P8,3/1/2019,80,11,4/11/2019
+O,Lydall Inc.,I7,9/2/2019,2
+R,Twitter Inc.,U4,5/1/2019,76,20,9/23/2019
+R,Independence Holding Company,I4,10/14/2019,86,20,10/16/2019
+O,BlackRock Massachusetts Tax-Exempt Trust,V3,12/7/2019,20
+O,Parker-Hannifin Corporation,G6,6/26/2019,70
+R,GAMCO Natural Resources Gold & Income Tust ,H1,11/25/2019,9,17,12/4/2019
+O,Public Storage,A1,12/12/2019,2
+O,Invesco Credit Opportunities Fund,K6,11/21/2019,26
+R,Darden Restaurants Inc.,F6,9/23/2019,70,5,11/21/2019
+O,Constellation Brands Inc,E5,11/5/2019,65
+R,Stanley Black & Decker Inc.,B5,7/29/2019,7,22,10/2/2019
+O,Dominion Energy Inc.,Q2,11/30/2019,5
+R,Monmouth Real Estate Investment Corporation,K5,5/28/2019,20,3,11/25/2019
+O,HNI Corporation,H8,2/8/2019,44
+R,Pioneer Municipal High Income Advantage Trust,Z2,1/29/2019,11,7,11/17/2019
+R,Adient plc,V6,11/23/2019,20,20,12/19/2019
+R,Kellogg Company,Z1,10/28/2019,84,22,12/1/2019
+R,PPlus Trust,J8,6/10/2019,91,9,9/18/2019
+O,Invesco Trust for Investment Grade Municipals,V3,11/6/2019,15
+O,Rayonier Advanced Materials Inc.,S6,12/13/2019,45
+R,Snap Inc.,Y2,9/27/2019,19,2,12/28/2019
+R,Hess Midstream Partners LP,X8,5/22/2019,60,4,6/11/2019
+R,WEX Inc.,C5,7/10/2019,12,28,8/24/2019
+R,Ormat Technologies Inc.,M7,4/12/2019,95,9,7/4/2019
+O,Comcast Corporation,X2,12/18/2019,28
+R,BlackBerry Limited,O4,7/5/2019,73,22,9/29/2019
+R,Citigroup Inc.,S9,6/30/2019,68,12,9/3/2019
+R,Linde plc,S2,10/25/2019,93,19,11/19/2019
+R,Southern California Edison Company,X7,8/21/2019,39,3,11/29/2019
+O,Customers Bancorp Inc,J5,6/27/2019,47
+O,Snap-On Incorporated,Y4,10/31/2019,7
+O,Scotts Miracle-Gro Company (The),H1,4/16/2019,30
+R,Dreyfus High Yield Strategies Fund,L6,1/23/2019,60,4,9/9/2019
+O,Tejon Ranch Co,M4,11/4/2019,25
+O,Canopy Growth Corporation,G7,9/10/2019,45
+O,MarineMax Inc.,R3,6/24/2019,94
+R,Eastman Chemical Company,U6,3/3/2019,22,25,10/16/2019
+R,Teleflex Incorporated,T4,7/6/2019,99,11,12/2/2019
+O,Tyler Technologies Inc.,V5,11/3/2019,64
+O,CBL & Associates Properties Inc.,P4,10/27/2019,53
+R,GS Acquisition Holdings Corp.,E6,6/29/2019,75,21,9/8/2019
+O,Amira Nature Foods Ltd,Y3,5/13/2019,98
+R,Nuveen Diversified Dividend and Income Fund,O6,12/25/2019,59,28,12/27/2019
+R,Energizer Holdings Inc.,J1,9/3/2019,33,29,11/29/2019
+R,Morgan Stanley,U1,10/5/2019,51,22,10/9/2019
+R,Entergy New Orleans LLC,F8,6/19/2019,80,16,11/25/2019
+R,CONSOL Coal Resources LP,B7,9/1/2019,97,6,11/16/2019
+R,Donnelley Financial Solutions Inc.,R9,9/18/2019,45,12,12/11/2019
+O,Vistra Energy Corp.,K5,6/15/2019,17
+O,BWX Technologies Inc.,V2,5/25/2019,19
+R,Cato Corporation (The),C4,10/21/2019,65,26,11/23/2019
+R,Royal Dutch Shell PLC,W8,7/30/2019,16,9,8/15/2019
+O,First Trust High Income Long Short Fund,C4,6/26/2019,75
+R,New Frontier Corporation,N6,11/14/2019,73,13,11/22/2019
+R,IDEX Corporation,V3,1/16/2019,76,25,2/9/2019
+O,Christopher & Banks Corporation,A9,2/19/2019,79
+O,Park Hotels & Resorts Inc.,L8,5/18/2019,82
+O,PS Business Parks Inc.,O3,4/10/2019,3
+O,Seritage Growth Properties,C7,9/14/2019,21
+O,Tower International Inc.,U4,4/14/2019,81
+R,WESCO International Inc.,B6,10/16/2019,46,11,11/6/2019
+O,Polaris Industries Inc.,Q5,7/7/2019,32
+R,Ambev S.A.,N3,6/23/2019,58,4,9/20/2019
+R,BlackRock Municipal Target Term Trust Inc. (The),Q4,12/4/2019,61,6,12/7/2019
+O,Teekay LNG Partners L.P.,G3,7/19/2019,20
+R,Far Point Acquisition Corporation,I7,2/23/2019,38,17,11/10/2019
+O,Tupperware Brands Corporation,N7,11/9/2019,82
+O,Waters Corporation,D7,6/18/2019,24
+O,GAIN Capital Holdings Inc.,O9,1/26/2019,73
+O,First Trust New Opportunities MLP & Energy Fund,J4,11/24/2019,28
+R,Stewart Information Services Corporation,Q9,11/24/2019,62,24,12/8/2019
+O,Hyatt Hotels Corporation,T9,7/31/2019,20
+O,Front Yard Residential Corporation,Z3,8/21/2019,29
+R,Teledyne Technologies Incorporated,T7,1/19/2019,65,11,10/7/2019
+O,Terex Corporation,O4,10/9/2019,92
+R,J P Morgan Chase & Co,B6,4/30/2019,23,6,8/13/2019
+R,Invesco Municipal Opportunity Trust,M4,10/12/2019,90,1,12/25/2019
+O,Cimarex Energy Co,U2,7/30/2019,6
+O,Tyson Foods Inc.,T4,5/18/2019,2
+R,Biglari Holdings Inc.,S7,4/15/2019,77,30,6/5/2019
+O,Jagged Peak Energy Inc.,G8,3/28/2019,57
+R,Old Republic International Corporation,A3,5/15/2019,94,8,7/25/2019
+O,Newpark Resources Inc.,I2,10/10/2019,64
+R,PS Business Parks Inc.,J1,1/1/2019,41,27,8/23/2019
+O,Capri Holdings Limited,E1,10/2/2019,31
+O,Monmouth Real Estate Investment Corporation,A8,1/13/2019,56
+O,Moelis & Company,Y7,4/24/2019,1
+O,Chemours Company (The),E2,11/13/2019,69
+O,Orion Engineered Carbons S.A,N1,9/4/2019,27
+R,BlackRock Strategic Municipal Trust Inc. (The),F4,10/10/2019,37,11,11/11/2019
+R,Voya Natural Resources Equity Income Fund,H1,8/7/2019,59,24,11/4/2019
+O,Invesco Bond Fund,J7,11/20/2019,43
+O,W.P. Carey Inc.,Y7,7/21/2019,23
+R,Pfizer Inc.,B6,5/27/2019,17,2,6/15/2019
+O,Haverty Furniture Companies Inc.,C4,10/28/2019,50
+R,KNOT Offshore Partners LP,Y9,8/14/2019,85,9,12/16/2019
+R,Mizuho Financial Group Inc.,F7,3/6/2019,75,5,3/23/2019
+R,Kirkland Lake Gold Ltd.,I2,6/26/2019,57,22,7/31/2019
+O,Edwards Lifesciences Corporation,B7,5/9/2019,29
+O,Prudential Public Limited Company,G5,1/22/2019,26
+O,Xylem Inc.,Q4,5/6/2019,48
+R,Grupo Aeroportuario del Sureste S.A. de C.V.,U2,6/13/2019,5,23,9/20/2019
+O,Tetra Technologies Inc.,A1,6/12/2019,66
+R,Associated Banc-Corp,Q1,1/30/2019,29,25,4/2/2019
+O,Tableau Software Inc.,D9,6/9/2019,36
+O,Universal Health Services Inc.,K7,2/9/2019,93
+R,Illinois Tool Works Inc.,K3,12/24/2019,34,26,12/25/2019
+O,GrubHub Inc.,Q3,6/5/2019,73
+R,Bright Scholar Education Holdings Limited,S9,10/7/2019,86,25,11/17/2019
+O,AdvanSix Inc.,P4,11/11/2019,55
+R,First Trust Dynamic Europe Equity Income Fund,N9,10/22/2019,2,7,12/24/2019
+O,Genie Energy Ltd.,P6,1/22/2019,15
+O,Hubbell Inc,Z8,6/19/2019,3
+O,Archrock Inc.,E1,4/28/2019,56
+R,SITE Centers Corp.,T2,8/17/2019,17,1,11/23/2019
+R,Nuveen Virginia Quality Municipal Income Fund,R7,8/14/2019,98,26,9/12/2019
+O,Studio City International Holdings Limited,Y3,1/1/2019,1
+O,Boston Scientific Corporation,G1,4/2/2019,29
+O,NL Industries Inc.,K2,9/22/2019,52
+R,Voya Asia Pacific High Dividend Equity Income Fund,M9,6/10/2019,53,9,11/18/2019
+O,The Hanover Insurance Group Inc.,V1,5/3/2019,89
+O,Ferrari N.V.,S6,12/3/2019,68
+O,Qiagen N.V.,U7,1/10/2019,13
+R,Prudential Financial Inc.,A7,11/26/2019,77,25,12/27/2019
+R,Stage Stores Inc.,A7,11/28/2019,20,17,12/19/2019
+O,Morgan Stanley,D5,7/29/2019,84
+R,Tsakos Energy Navigation Ltd,M2,6/8/2019,69,5,11/1/2019
+R,Eagle Point Credit Company Inc.,V5,11/22/2019,66,30,12/18/2019
+R,Westrock Company,T2,3/15/2019,2,22,9/5/2019
+R,Edison International,S7,6/1/2019,18,4,7/26/2019
