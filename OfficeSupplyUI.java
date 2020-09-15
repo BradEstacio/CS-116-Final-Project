@@ -317,6 +317,7 @@ public class OfficeSupplyUI
 		System.out.println("***LIST ORDERS***");
 		System.out.println();
 		System.out.println("Specify a customer ID...");
+		userInput.nextLine();
 		String customerID = userInput.nextLine();
 		
 		try
