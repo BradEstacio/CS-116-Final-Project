@@ -15,7 +15,7 @@ The UI allows the following options for the user:
 2. Specify the information to add on order or a repeated order.
 3. Specify an order ID to delete.
 4. Specify a customer ID to display a list of orders for that customer in inceasing date sorted order.
-5. Calculate and output and order inventory report (sorted by year, month, and productID)
+5. Calculate, output, and order an inventory report (sorted by year, month, and productID)
 6. Quit - Allows the user to quit the program.
   
 Assumptions:
