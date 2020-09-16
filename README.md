@@ -1,5 +1,5 @@
 # CS-116-Final-Project
-Final project Java files from CS 116 - Object Oriented Programming
+Final project Java files from CS 116 - Object-Oriented Programming
 
 # General Overview
  This was a final project I had worked on for my java class with a lab partner, Patrick Inosanto. The final project was to create an Office Supply Order System included reading/writing files, asking for user input with 
