@@ -6,6 +6,7 @@ Final project Java files from CS 116 - Object-Oriented Programming
  conditions, writing and throwing exceptions, and using inheritance with interfaces and classes. Basic Javadocs included inside files. Two text files were included for testing
  the main class, those being `orderssmall.txt.` and `testFile.txt`. Another java file was required to randomly generate a text file.
 
+`OfficeSupplyOrderSystemUML.png` is a simple UML of the Office Supply Order System.
 
 # OfficeSupplyUI.java
 Methods inside the UI throw `OfficeSupplyUIException.java`.
